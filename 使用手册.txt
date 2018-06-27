@@ -1,0 +1,10 @@
+执行main.exe
+浏览器打开indexhtml进行操作
+
+*注：导入新的数据需要先清除数据库
+         数据库清除 执行 clear.exe
+
+*如果出现错误 Database lock 请重启main.exe
+
+对不完整数据进行导入测试，1.2w条需9S左右
+
